@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f5f2">
+  <title>Kotoba Drive · Lab ONNX JP / IT · Deck N5</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main class="shell">
+  <header class="masthead">
+    <div class="branding"><span class="brandmark">言</span><span>KOTOBA <b>DRIVE</b></span></div>
+    <span class="chip">LAB · N5 / ONNX</span>
+  </header>
+  <section class="hero" aria-labelledby="title">
+    <div>
+      <span class="eyebrow">Pocket TTS · In-browser inference</span>
+      <h1 id="title">Un deck N5.<br><em>Due voci ONNX.</em></h1>
+      <p>Prova in-browser del deck N5 con modelli ONNX giapponese e italiano. Normalizzazione JP, segmentazione, pausa modificabile e confronto diagnostico delle frasi italiane: nessun WAV preregistrato.</p>
+    </div>
+    <div class="hero-stats"><div><strong id="heroCount">24</strong><small>Card N5 disponibili</small></div><div><strong>JA / IT</strong><small>Modelli INT8</small></div><div><strong>WASM</strong><small>CPU locale</small></div></div>
+  </section>
+  <section class="control-panel" aria-label="Controlli del motore">
+    <div class="panel-top">
+      <div><h2>Motore audio</h2><p>Un modello alla volta per limitare la memoria su Safari iOS.</p></div>
+      <div class="engine-pills"><span id="jaState" class="engine-pill">JA · non caricato</span><span id="itState" class="engine-pill">IT · non caricato</span></div>
+    </div>
+    <div class="model-actions">
+      <button id="loadJa" type="button" class="button solid" disabled><span aria-hidden="true">◉</span> Carica ONNX giapponese</button>
+      <button id="loadIt" type="button" class="button outline" disabled>Carica ONNX italiano</button>
+      <button id="stop" class="button subtle" type="button" disabled>Ferma</button>
+    </div>
+    <div class="params">
+      <label>Temperatura <output id="tempLabel">0,30</output><input id="temp" type="range" min="0.1" max="0.8" step="0.05" value="0.3"></label>
+      <label>Step LSD <select id="steps"><option value="1">1</option><option value="2">2</option><option value="4" selected>4</option></select></label>
+      <label>Max frame per frase <select id="maxFrames"><option value="100">100 (8 s)</option><option value="150">150 (12 s)</option><option value="200" selected>200 (16 s)</option><option value="300">300 (24 s)</option></select></label>
+      <label>Pausa fra segmenti · ms <input id="pauseMs" type="number" min="0" max="1500" step="25" value="250" inputmode="numeric"><small>Solo fra le frasi, 0–1.500 ms</small></label>
+      <label>Silenzio iniziale · ms <input id="startSilenceMs" type="number" min="0" max="1500" step="25" value="200" inputmode="numeric"><small>Per testare il taglio in riproduzione</small></label>
+      <label>Lettura significati IT <select id="itMode"><option value="context" selected>Contestualizzata</option><option value="raw">Originale (test A/B)</option></select><small>Es. «In italiano significa andare»</small></label>
+      <label>Frame dopo EOS <select id="afterEos"><option value="0" selected>0</option><option value="1">1</option><option value="2">2</option></select></label>
+    </div>
+    <p class="diagnostic-hint" id="voiceHint">Gli esempi tagliati possono dipendere da sintesi o riproduzione: confronta il player con il WAV scaricato. Il silenzio iniziale non può recuperare fonemi mai generati.</p>
+    <div class="status-row"><div id="statusDot" class="status-dot"></div><p id="status" aria-live="polite">Verifica degli asset…</p></div>
+    <div class="player-zone"><audio id="audio" controls preload="none"></audio><a id="download" class="download disabled" aria-disabled="true">Scarica WAV</a></div>
+    <div id="metrics" class="metrics" aria-live="polite"></div>
+  </section>
+  <section class="section-intro"><div><span class="eyebrow">Dal deck Kotoba Drive N5</span><h2>Le card di prova</h2></div><span id="cardCount" class="count">Caricamento…</span></section>
+  <section class="deck-toolbar" aria-label="Selezione del deck"><label>Card visualizzate <select id="deckSize"><option value="4" selected>4 card iniziali</option><option value="12">12 card</option><option value="all">Tutto il deck</option></select></label><label>Cerca nel deck <input id="cardSearch" type="search" placeholder="Kanji, kana, italiano…" autocomplete="off"></label><span id="deckNotice" class="deck-notice">Le card sono pretokenizzate in fase di preparazione.</span></section>
+  <section id="cards" class="card-grid" aria-label="Card di vocaboli N5"></section>
+  <footer><p><strong>Come funziona.</strong> Per ogni pulsante il browser usa token SentencePiece preparati con il deck N5 originale, poi esegue text conditioner, FlowLM e Mimi con ONNX Runtime Web. La pausa viene aggiunta al PCM fra segmenti, non al testo.</p><p class="small">Primo caricamento: i file INT8 sono voluminosi; è richiesta una connessione per il runtime JS dal CDN. Safari iOS usa WebAssembly CPU a thread singolo. La qualità italiana è ancora sperimentale. Per GitHub Pages consulta DEPLOY_GITHUB_PAGES.md; per l'offline completo occorre distribuire e memorizzare tutti i file del runtime e dei modelli.</p></footer>
+</main>
+<script src="app.js" defer></script>
+</body>
+</html>

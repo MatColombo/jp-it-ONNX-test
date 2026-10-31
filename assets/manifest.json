@@ -1,0 +1,3814 @@
+{
+  "version": 2,
+  "deckId": "kotoba-n5-final",
+  "cards": [
+    {
+      "id": "745720442365",
+      "jp": "会う",
+      "kana": "あう",
+      "pos": "verb",
+      "meaning": "incontrare; vedersi con qualcuno",
+      "meaningEn": "to meet",
+      "forms": [
+        {
+          "label": "ます形",
+          "jp": "会います"
+        },
+        {
+          "label": "て形",
+          "jp": "会って"
+        },
+        {
+          "label": "ない形",
+          "jp": "会わない"
+        },
+        {
+          "label": "た形",
+          "jp": "会った"
+        }
+      ],
+      "example": {
+        "id": 107,
+        "jp": "練習のあと監督に会って、足の痛みを伝えたよ。",
+        "kana": "れんしゅうのあとかんとくにあって、あしのいたみをつたえたよ。",
+        "it": "Dopo l’allenamento ho incontrato l’allenatore e gli ho parlato del dolore alla gamba.",
+        "en": "I met the coach after practice and told him about my leg pain.",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "会う",
+          "segments": [
+            {
+              "text": "会う",
+              "prepared": "会う.",
+              "tokens": [
+                262,
+                374,
+                325,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "incontrare; vedersi con qualcuno",
+          "segments": [
+            {
+              "text": "incontrare; vedersi con qualcuno",
+              "prepared": "Incontrare; vedersi con qualcuno.",
+              "tokens": [
+                445,
+                1047,
+                269,
+                63,
+                803,
+                468,
+                277,
+                333,
+                831,
+                263
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa incontrare; vedersi con qualcuno.",
+          "segments": [
+            {
+              "text": "In italiano significa incontrare; vedersi con qualcuno.",
+              "prepared": "In italiano significa incontrare; vedersi con qualcuno.",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                268,
+                1047,
+                269,
+                63,
+                803,
+                468,
+                277,
+                333,
+                831,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "練習のあと監督に会って、足の痛みを伝えたよ。",
+          "segments": [
+            {
+              "text": "練習のあと監督に会って、足の痛みを伝えたよ。",
+              "prepared": "練習のあと監督に会って,足の痛みを伝えたよ.",
+              "tokens": [
+                262,
+                1976,
+                1599,
+                263,
+                1047,
+                2130,
+                2889,
+                265,
+                374,
+                279,
+                260,
+                640,
+                263,
+                1588,
+                307,
+                264,
+                1539,
+                280,
+                347,
+                261
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "Dopo l’allenamento ho incontrato l’allenatore e gli ho parlato del dolore alla gamba.",
+          "segments": [
+            {
+              "text": "Dopo l’allenamento ho incontrato l’allenatore e gli ho parlato del dolore alla gamba.",
+              "prepared": "Dopo l’allenamento ho incontrato l’allenatore e gli ho parlato del dolore alla gamba.",
+              "tokens": [
+                1758,
+                282,
+                230,
+                132,
+                157,
+                3350,
+                394,
+                364,
+                268,
+                1047,
+                276,
+                282,
+                230,
+                132,
+                157,
+                3350,
+                679,
+                265,
+                341,
+                364,
+                406,
+                276,
+                292,
+                260,
+                2256,
+                357,
+                260,
+                418,
+                2041,
+                263
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "441918762487",
+      "jp": "行く",
+      "kana": "いく",
+      "pos": "verb",
+      "meaning": "andare",
+      "meaningEn": "to go",
+      "forms": [
+        {
+          "label": "ます形",
+          "jp": "行きます"
+        },
+        {
+          "label": "て形",
+          "jp": "行って"
+        },
+        {
+          "label": "ない形",
+          "jp": "行かない"
+        },
+        {
+          "label": "た形",
+          "jp": "行った"
+        }
+      ],
+      "example": {
+        "id": 101,
+        "jp": "ママ、パン売り場に行ってくる。ここで待ってて。",
+        "kana": "ママ、パンうりばにいってくる。ここでまってて。",
+        "it": "Mamma, vado al reparto pane e torno. Aspettami qui.",
+        "en": "Mom, I'm going to the bread section and coming back. Wait here.",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "行く",
+          "segments": [
+            {
+              "text": "行く",
+              "prepared": "行く.",
+              "tokens": [
+                262,
+                1201,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "andare",
+          "segments": [
+            {
+              "text": "andare",
+              "prepared": "Andare.",
+              "tokens": [
+                2690,
+                311,
+                263
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa andare.",
+          "segments": [
+            {
+              "text": "In italiano significa andare.",
+              "prepared": "In italiano significa andare.",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                260,
+                620,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "ママ、パン売り場に行ってくる。ここで待ってて。",
+          "segments": [
+            {
+              "text": "ママ、パン売り場に行ってくる。",
+              "prepared": "ママ,パン売り場に行ってくる.",
+              "tokens": [
+                262,
+                379,
+                379,
+                260,
+                539,
+                302,
+                835,
+                277,
+                443,
+                265,
+                1207,
+                1120,
+                261
+              ]
+            },
+            {
+              "text": "ここで待ってて。",
+              "prepared": "ここで待ってて.",
+              "tokens": [
+                262,
+                1228,
+                1450,
+                279,
+                288,
+                261
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "Mamma, vado al reparto pane e torno. Aspettami qui.",
+          "segments": [
+            {
+              "text": "Mamma, vado al reparto pane e torno.",
+              "prepared": "Mamma, vado al reparto pane e torno.",
+              "tokens": [
+                396,
+                1533,
+                261,
+                1795,
+                315,
+                260,
+                269,
+                940,
+                355,
+                276,
+                516,
+                312,
+                265,
+                260,
+                1169,
+                263
+              ]
+            },
+            {
+              "text": "Aspettami qui.",
+              "prepared": "Aspettami qui.",
+              "tokens": [
+                384,
+                789,
+                393,
+                491,
+                263
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "951515704274",
+      "jp": "学校",
+      "kana": "がっこう",
+      "pos": "noun",
+      "meaning": "scuola",
+      "meaningEn": "school",
+      "forms": [
+        {
+          "label": "名詞",
+          "jp": "学校"
+        },
+        {
+          "label": "に通う",
+          "jp": "学校に通う"
+        },
+        {
+          "label": "で学ぶ",
+          "jp": "学校で学ぶ"
+        }
+      ],
+      "example": {
+        "id": 101,
+        "jp": "学校で使うのりも買って。",
+        "kana": "がっこうでつかうのりもかって。",
+        "it": "Compra anche la colla per scuola.",
+        "en": "Buy glue for school too.",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "学校",
+          "segments": [
+            {
+              "text": "学校",
+              "prepared": "学校.",
+              "tokens": [
+                262,
+                1077,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "scuola",
+          "segments": [
+            {
+              "text": "scuola",
+              "prepared": "Scuola.",
+              "tokens": [
+                541,
+                759,
+                2593,
+                263
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa scuola.",
+          "segments": [
+            {
+              "text": "In italiano significa scuola.",
+              "prepared": "In italiano significa scuola.",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                260,
+                1459,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "学校で使うのりも買って。",
+          "segments": [
+            {
+              "text": "学校で使うのりも買って。",
+              "prepared": "学校で使うのりも買って.",
+              "tokens": [
+                262,
+                1077,
+                269,
+                1363,
+                263,
+                277,
+                270,
+                877,
+                279,
+                261
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "Compra anche la colla per scuola.",
+          "segments": [
+            {
+              "text": "Compra anche la colla per scuola.",
+              "prepared": "Compra anche la colla per scuola.",
+              "tokens": [
+                708,
+                1369,
+                358,
+                295,
+                272,
+                329,
+                589,
+                274,
+                260,
+                1459,
+                263
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "17190487229",
+      "jp": "今日",
+      "kana": "きょう",
+      "pos": "noun",
+      "meaning": "oggi",
+      "meaningEn": "today",
+      "forms": [
+        {
+          "label": "基本形",
+          "jp": "今日"
+        },
+        {
+          "label": "期間を表す表現",
+          "jp": "今日中"
+        }
+      ],
+      "example": {
+        "id": 101,
+        "jp": "今日はお菓子を一つだけ選んでね。",
+        "kana": "きょうはおかしをひとつだけえらんでね。",
+        "it": "Oggi scegli un solo dolce.",
+        "en": "Choose just one sweet today.",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "今日",
+          "segments": [
+            {
+              "text": "今日",
+              "prepared": "今日.",
+              "tokens": [
+                262,
+                970,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "oggi",
+          "segments": [
+            {
+              "text": "oggi",
+              "prepared": "Oggi.",
+              "tokens": [
+                1770,
+                263
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa oggi.",
+          "segments": [
+            {
+              "text": "In italiano significa oggi.",
+              "prepared": "In italiano significa oggi.",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                506,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "今日はお菓子を一つだけ選んでね。",
+          "segments": [
+            {
+              "text": "今日はお菓子を一つだけ選んでね。",
+              "prepared": "今日はお菓子を一つだけ選んでね.",
+              "tokens": [
+                262,
+                1390,
+                290,
+                2683,
+                353,
+                264,
+                717,
+                461,
+                909,
+                365,
+                275,
+                261
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "Oggi scegli un solo dolce.",
+          "segments": [
+            {
+              "text": "Oggi scegli un solo dolce.",
+              "prepared": "Oggi scegli un solo dolce.",
+              "tokens": [
+                1770,
+                260,
+                2299,
+                270,
+                423,
+                3621,
+                263
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1013283390563",
+      "jp": "青",
+      "kana": "あお",
+      "pos": "noun",
+      "meaning": "blu; verde del semaforo",
+      "meaningEn": "blue",
+      "forms": [
+        {
+          "label": "nome di colore",
+          "jp": "青"
+        },
+        {
+          "label": "modificatore nominale",
+          "jp": "青の"
+        }
+      ],
+      "example": {
+        "id": 101,
+        "jp": "母さん、この青より黄色の袋のほうがよく見えるよ。",
+        "kana": "かあさん、このあおよりきいろのふくろのほうがよくみえるよ。",
+        "it": "Mamma, il sacchetto giallo si vede meglio di quello blu.",
+        "en": "Mom, the yellow bag is easier to spot than the blue one.",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "青",
+          "segments": [
+            {
+              "text": "青",
+              "prepared": "青.",
+              "tokens": [
+                262,
+                1146,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "blu; verde del semaforo",
+          "segments": [
+            {
+              "text": "blu; verde del semaforo",
+              "prepared": "Blu; verde del semaforo.",
+              "tokens": [
+                1073,
+                694,
+                63,
+                3490,
+                292,
+                286,
+                415,
+                1300,
+                285,
+                263
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa blu; verde del semaforo.",
+          "segments": [
+            {
+              "text": "In italiano significa blu; verde del semaforo.",
+              "prepared": "In italiano significa blu; verde del semaforo.",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                3712,
+                63,
+                3490,
+                292,
+                286,
+                415,
+                1300,
+                285,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "母さん、この青より黄色の袋のほうがよく見えるよ。",
+          "segments": [
+            {
+              "text": "母さん、この青より黄色の袋のほうがよく見えるよ。",
+              "prepared": "母さん,この青より黄色の袋のほうがよく見えるよ.",
+              "tokens": [
+                262,
+                793,
+                348,
+                260,
+                297,
+                1146,
+                651,
+                1831,
+                505,
+                263,
+                2183,
+                263,
+                1215,
+                325,
+                266,
+                659,
+                1305,
+                274,
+                347,
+                261
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "Mamma, il sacchetto giallo si vede meglio di quello blu.",
+          "segments": [
+            {
+              "text": "Mamma, il sacchetto giallo si vede meglio di quello blu.",
+              "prepared": "Mamma, il sacchetto giallo si vede meglio di quello blu.",
+              "tokens": [
+                396,
+                1533,
+                261,
+                273,
+                476,
+                2332,
+                477,
+                260,
+                1035,
+                747,
+                283,
+                803,
+                260,
+                752,
+                262,
+                260,
+                346,
+                3712,
+                263
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "350684834839",
+      "jp": "青い",
+      "kana": "あおい",
+      "pos": "i",
+      "meaning": "blu; azzurro; verde o acerbo (frutti); pallido (viso); inesperto, immaturo (figurato)",
+      "meaningEn": "blue; green or unripe (fruit); pale (face); inexperienced, immature (figurative)",
+      "forms": [
+        {
+          "label": "辞書形",
+          "jp": "青い"
+        },
+        {
+          "label": "過去形",
+          "jp": "青かった"
+        },
+        {
+          "label": "否定形",
+          "jp": "青くない"
+        },
+        {
+          "label": "否定過去形",
+          "jp": "青くなかった"
+        }
+      ],
+      "example": {
+        "id": 101,
+        "jp": "母さん、このバナナはまだ青いから、すぐには食べられないよ。",
+        "kana": "かあさん、このばななはまだあおいから、すぐにはたべられないよ。",
+        "it": "Mamma, queste banane sono ancora acerbe, perciò non si possono mangiare subito.",
+        "en": "Mom, these bananas are still green, so we can’t eat them right away.",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "青い",
+          "segments": [
+            {
+              "text": "青い",
+              "prepared": "青い.",
+              "tokens": [
+                262,
+                1146,
+                271,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "blu; azzurro; verde o acerbo (frutti); pallido (viso); inesperto, immaturo (figurato)",
+          "segments": [
+            {
+              "text": "blu; azzurro; verde o acerbo (frutti); pallido (viso); inesperto, immaturo (figurato)",
+              "prepared": "Blu; azzurro; verde o acerbo (frutti); pallido (viso); inesperto, immaturo (figurato)",
+              "tokens": [
+                1073,
+                694,
+                63,
+                260,
+                3121,
+                1084,
+                361,
+                63,
+                3490,
+                331,
+                266,
+                1457,
+                978,
+                260,
+                44,
+                678,
+                689,
+                509,
+                45,
+                63,
+                516,
+                766,
+                507,
+                260,
+                44,
+                2270,
+                45,
+                63,
+                268,
+                1017,
+                1127,
+                276,
+                261,
+                294,
+                1533,
+                1753,
+                285,
+                260,
+                44,
+                1699,
+                276,
+                45
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa blu; azzurro; verde o acerbo (frutti); pallido (viso); inesperto, immaturo (figurato).",
+          "segments": [
+            {
+              "text": "In italiano significa blu; azzurro; verde o acerbo (frutti); pallido (viso); inesperto, immaturo (figurato).",
+              "prepared": "In italiano significa blu; azzurro; verde o acerbo (frutti); pallido (viso); inesperto, immaturo (figurato).",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                3712,
+                63,
+                260,
+                3121,
+                1084,
+                361,
+                63,
+                3490,
+                331,
+                266,
+                1457,
+                978,
+                260,
+                44,
+                678,
+                689,
+                509,
+                45,
+                63,
+                516,
+                766,
+                507,
+                260,
+                44,
+                2270,
+                45,
+                63,
+                268,
+                1017,
+                1127,
+                276,
+                261,
+                294,
+                1533,
+                1753,
+                285,
+                260,
+                44,
+                1699,
+                276,
+                45,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "母さん、このバナナはまだ青いから、すぐには食べられないよ。",
+          "segments": [
+            {
+              "text": "母さん、このバナナはまだ青いから、すぐには食べられないよ。",
+              "prepared": "母さん,このバナナはまだ青いから,すぐには食べられないよ.",
+              "tokens": [
+                262,
+                793,
+                348,
+                260,
+                297,
+                464,
+                475,
+                475,
+                267,
+                738,
+                1146,
+                271,
+                278,
+                260,
+                1126,
+                338,
+                1015,
+                593,
+                289,
+                347,
+                261
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "Mamma, queste banane sono ancora acerbe, perciò non si possono mangiare subito.",
+          "segments": [
+            {
+              "text": "Mamma, queste banane sono ancora acerbe, perciò non si possono mangiare subito.",
+              "prepared": "Mamma, queste banane sono ancora acerbe, perciò non si possono mangiare subito.",
+              "tokens": [
+                396,
+                1533,
+                261,
+                260,
+                519,
+                804,
+                305,
+                312,
+                291,
+                260,
+                450,
+                266,
+                1457,
+                1147,
+                261,
+                260,
+                3580,
+                275,
+                283,
+                549,
+                278,
+                1313,
+                311,
+                260,
+                965,
+                263
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "196171337906",
+      "jp": "赤",
+      "kana": "あか",
+      "pos": "noun",
+      "meaning": "rosso",
+      "meaningEn": "red",
+      "forms": [
+        {
+          "label": "nome di colore",
+          "jp": "赤"
+        },
+        {
+          "label": "modificatore nominale",
+          "jp": "赤の"
+        }
+      ],
+      "example": {
+        "id": 101,
+        "jp": "値札の赤は値引きの印だよ。母さん、こっちのパンも安くなってる。",
+        "kana": "ねふだのあかはねびきのしるしだよ。かあさん、こっちのぱんもやすくなってる。",
+        "it": "Il rosso sui cartellini indica uno sconto. Mamma, anche questo pane è ribassato.",
+        "en": "Red on the price tags means a discount. Mom, this bread is reduced too.",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "赤",
+          "segments": [
+            {
+              "text": "赤",
+              "prepared": "赤.",
+              "tokens": [
+                262,
+                998,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "rosso",
+          "segments": [
+            {
+              "text": "rosso",
+              "prepared": "Rosso.",
+              "tokens": [
+                1107,
+                578,
+                263
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa rosso.",
+          "segments": [
+            {
+              "text": "In italiano significa rosso.",
+              "prepared": "In italiano significa rosso.",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                3290,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "値札の赤は値引きの印だよ。母さん、こっちのパンも安くなってる。",
+          "segments": [
+            {
+              "text": "値札の赤は値引きの印だよ。",
+              "prepared": "値札の赤は値引きの印だよ.",
+              "tokens": [
+                262,
+                1377,
+                2181,
+                263,
+                998,
+                267,
+                1377,
+                974,
+                263,
+                1807,
+                314,
+                347,
+                261
+              ]
+            },
+            {
+              "text": "母さん、こっちのパンも安くなってる。",
+              "prepared": "母さん,こっちのパンも安くなってる.",
+              "tokens": [
+                262,
+                793,
+                348,
+                260,
+                451,
+                364,
+                458,
+                263,
+                539,
+                302,
+                270,
+                789,
+                286,
+                273,
+                701,
+                261
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "Il rosso sui cartellini indica uno sconto. Mamma, anche questo pane è ribassato.",
+          "segments": [
+            {
+              "text": "Il rosso sui cartellini indica uno sconto.",
+              "prepared": "Il rosso sui cartellini indica uno sconto.",
+              "tokens": [
+                420,
+                3290,
+                919,
+                2975,
+                766,
+                314,
+                260,
+                3595,
+                410,
+                1932,
+                276,
+                263
+              ]
+            },
+            {
+              "text": "Mamma, anche questo pane è ribassato.",
+              "prepared": "Mamma, anche questo pane è ribassato.",
+              "tokens": [
+                396,
+                1533,
+                261,
+                295,
+                260,
+                300,
+                516,
+                312,
+                271,
+                302,
+                700,
+                688,
+                276,
+                263
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "295182061451",
+      "jp": "赤い",
+      "kana": "あかい",
+      "pos": "i",
+      "meaning": "rosso",
+      "meaningEn": "red",
+      "forms": [
+        {
+          "label": "過去形",
+          "jp": "赤かった"
+        },
+        {
+          "label": "ない形",
+          "jp": "赤くない"
+        },
+        {
+          "label": "て形",
+          "jp": "赤くて"
+        }
+      ],
+      "example": {
+        "id": 101,
+        "jp": "その赤いリンゴ、傷があるから別のにしよう。",
+        "kana": "そのあかいリンゴ、きずがあるからべつのにしよう。",
+        "it": "Quella mela rossa è ammaccata; scegliamone un'altra.",
+        "en": "That red apple is bruised; let's choose another one.",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "赤い",
+          "segments": [
+            {
+              "text": "赤い",
+              "prepared": "赤い.",
+              "tokens": [
+                262,
+                998,
+                271,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "rosso",
+          "segments": [
+            {
+              "text": "rosso",
+              "prepared": "Rosso.",
+              "tokens": [
+                1107,
+                578,
+                263
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa rosso.",
+          "segments": [
+            {
+              "text": "In italiano significa rosso.",
+              "prepared": "In italiano significa rosso.",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                3290,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "その赤いリンゴ、傷があるから別のにしよう。",
+          "segments": [
+            {
+              "text": "その赤いリンゴ、傷があるから別のにしよう。",
+              "prepared": "その赤いリンゴ,傷があるから別のにしよう.",
+              "tokens": [
+                386,
+                998,
+                271,
+                1025,
+                734,
+                260,
+                1520,
+                389,
+                278,
+                625,
+                263,
+                265,
+                1181,
+                261
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "Quella mela rossa è ammaccata; scegliamone un'altra.",
+          "segments": [
+            {
+              "text": "Quella mela rossa è ammaccata; scegliamone un'altra.",
+              "prepared": "Quella mela rossa è ammaccata; scegliamone un'altra.",
+              "tokens": [
+                260,
+                3470,
+                363,
+                354,
+                260,
+                361,
+                688,
+                271,
+                266,
+                1533,
+                847,
+                289,
+                63,
+                260,
+                2299,
+                405,
+                312,
+                270,
+                267,
+                581,
+                263
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "625328449600",
+      "jp": "明るい",
+      "kana": "あかるい",
+      "pos": "i",
+      "meaning": "luminoso; chiaro; allegro",
+      "meaningEn": "bright",
+      "forms": [
+        {
+          "label": "過去形",
+          "jp": "明るかった"
+        },
+        {
+          "label": "ない形",
+          "jp": "明るくない"
+        },
+        {
+          "label": "て形",
+          "jp": "明るくて"
+        }
+      ],
+      "example": {
+        "id": 101,
+        "jp": "この売り場、明るすぎて目が疲れるね。",
+        "kana": "このうりば、あかるすぎてめがつかれるね。",
+        "it": "Questo reparto è così luminoso che mi stanca gli occhi.",
+        "en": "This section is so bright that it tires my eyes.",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "明るい",
+          "segments": [
+            {
+              "text": "明るい",
+              "prepared": "明るい.",
+              "tokens": [
+                262,
+                493,
+                274,
+                271,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "luminoso; chiaro; allegro",
+          "segments": [
+            {
+              "text": "luminoso; chiaro; allegro",
+              "prepared": "Luminoso; chiaro; allegro.",
+              "tokens": [
+                1799,
+                393,
+                278,
+                452,
+                63,
+                260,
+                1394,
+                63,
+                504,
+                2092,
+                263
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa luminoso; chiaro; allegro.",
+          "segments": [
+            {
+              "text": "In italiano significa luminoso; chiaro; allegro.",
+              "prepared": "In italiano significa luminoso; chiaro; allegro.",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                260,
+                694,
+                393,
+                278,
+                452,
+                63,
+                260,
+                1394,
+                63,
+                504,
+                2092,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "この売り場、明るすぎて目が疲れるね。",
+          "segments": [
+            {
+              "text": "この売り場、明るすぎて目が疲れるね。",
+              "prepared": "この売り場,明るすぎて目が疲れるね.",
+              "tokens": [
+                362,
+                835,
+                277,
+                443,
+                260,
+                493,
+                274,
+                311,
+                663,
+                288,
+                361,
+                266,
+                2159,
+                578,
+                275,
+                261
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "Questo reparto è così luminoso che mi stanca gli occhi.",
+          "segments": [
+            {
+              "text": "Questo reparto è così luminoso che mi stanca gli occhi.",
+              "prepared": "Questo reparto è così luminoso che mi stanca gli occhi.",
+              "tokens": [
+                260,
+                673,
+                260,
+                269,
+                940,
+                355,
+                276,
+                271,
+                383,
+                260,
+                694,
+                393,
+                278,
+                452,
+                264,
+                304,
+                388,
+                1895,
+                341,
+                1180,
+                263
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "608929082330",
+      "jp": "秋",
+      "kana": "あき",
+      "pos": "noun",
+      "meaning": "autunno",
+      "meaningEn": "autumn",
+      "forms": [
+        {
+          "label": "nome invariabile",
+          "jp": "秋"
+        },
+        {
+          "label": "modificatore nominale",
+          "jp": "秋の"
+        },
+        {
+          "label": "espressione temporale",
+          "jp": "秋に"
+        }
+      ],
+      "example": {
+        "id": 101,
+        "jp": "秋になると、この売り場に栗が並ぶんだね。",
+        "kana": "あきになると、このうりばにくりがならぶんだね。",
+        "it": "In autunno in questo reparto compaiono le castagne.",
+        "en": "In autumn, chestnuts appear in this section.",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "秋",
+          "segments": [
+            {
+              "text": "秋",
+              "prepared": "秋.",
+              "tokens": [
+                262,
+                1736,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "autunno",
+          "segments": [
+            {
+              "text": "autunno",
+              "prepared": "Autunno.",
+              "tokens": [
+                384,
+                1577,
+                1303,
+                278,
+                263
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa autunno.",
+          "segments": [
+            {
+              "text": "In italiano significa autunno.",
+              "prepared": "In italiano significa autunno.",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                266,
+                1577,
+                1303,
+                278,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "秋になると、この売り場に栗が並ぶんだね。",
+          "segments": [
+            {
+              "text": "秋になると、この売り場に栗が並ぶんだね。",
+              "prepared": "秋になると,この売り場に栗が並ぶんだね.",
+              "tokens": [
+                262,
+                1736,
+                446,
+                268,
+                260,
+                297,
+                835,
+                277,
+                443,
+                265,
+                2876,
+                266,
+                1370,
+                541,
+                411,
+                275,
+                261
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "In autunno in questo reparto compaiono le castagne.",
+          "segments": [
+            {
+              "text": "In autunno in questo reparto compaiono le castagne.",
+              "prepared": "In autunno in questo reparto compaiono le castagne.",
+              "tokens": [
+                445,
+                266,
+                1577,
+                1303,
+                278,
+                268,
+                260,
+                300,
+                260,
+                269,
+                940,
+                355,
+                276,
+                1215,
+                279,
+                426,
+                278,
+                288,
+                543,
+                459,
+                1803,
+                263
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1083334321905",
+      "jp": "開く",
+      "kana": "あく",
+      "pos": "verb",
+      "meaning": "aprirsi; essere aperto",
+      "meaningEn": "to open; to become open",
+      "forms": [
+        {
+          "label": "ます形",
+          "jp": "開きます"
+        },
+        {
+          "label": "て形",
+          "jp": "開いて"
+        },
+        {
+          "label": "ない形",
+          "jp": "開かない"
+        },
+        {
+          "label": "た形",
+          "jp": "開いた"
+        }
+      ],
+      "example": {
+        "id": 101,
+        "jp": "まだ店が開いてないよ。入口で待とう。",
+        "kana": "まだみせがあいてないよ。いりぐちでまとう。",
+        "it": "Il negozio non è ancora aperto. Aspettiamo all'ingresso.",
+        "en": "The store isn't open yet. Let's wait at the entrance.",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "開く",
+          "segments": [
+            {
+              "text": "開く",
+              "prepared": "開く.",
+              "tokens": [
+                262,
+                733,
+                286,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "aprirsi; essere aperto",
+          "segments": [
+            {
+              "text": "aprirsi; essere aperto",
+              "prepared": "Aprirsi; essere aperto.",
+              "tokens": [
+                384,
+                1090,
+                468,
+                63,
+                260,
+                351,
+                260,
+                2328,
+                263
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa aprirsi; essere aperto.",
+          "segments": [
+            {
+              "text": "In italiano significa aprirsi; essere aperto.",
+              "prepared": "In italiano significa aprirsi; essere aperto.",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                266,
+                1090,
+                468,
+                63,
+                260,
+                351,
+                260,
+                2328,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "まだ店が開いてないよ。入口で待とう。",
+          "segments": [
+            {
+              "text": "まだ店が開いてないよ。",
+              "prepared": "まだ店が開いてないよ.",
+              "tokens": [
+                262,
+                738,
+                885,
+                266,
+                733,
+                391,
+                289,
+                347,
+                261
+              ]
+            },
+            {
+              "text": "入口で待とう。",
+              "prepared": "入口で待とう.",
+              "tokens": [
+                262,
+                404,
+                630,
+                269,
+                1450,
+                268,
+                325,
+                261
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "Il negozio non è ancora aperto. Aspettiamo all'ingresso.",
+          "segments": [
+            {
+              "text": "Il negozio non è ancora aperto.",
+              "prepared": "Il negozio non è ancora aperto.",
+              "tokens": [
+                420,
+                260,
+                2437,
+                285,
+                275,
+                271,
+                260,
+                450,
+                260,
+                2328,
+                263
+              ]
+            },
+            {
+              "text": "Aspettiamo all'ingresso.",
+              "prepared": "Aspettiamo all'ingresso.",
+              "tokens": [
+                384,
+                1349,
+                405,
+                376,
+                267,
+                430,
+                2824,
+                263
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "215174343989",
+      "jp": "開ける",
+      "kana": "あける",
+      "pos": "verb",
+      "meaning": "aprire",
+      "meaningEn": "to open",
+      "forms": [
+        {
+          "label": "ます形",
+          "jp": "開けます"
+        },
+        {
+          "label": "て形",
+          "jp": "開けて"
+        },
+        {
+          "label": "ない形",
+          "jp": "開けない"
+        },
+        {
+          "label": "た形",
+          "jp": "開けた"
+        }
+      ],
+      "example": {
+        "id": 101,
+        "jp": "買う前に袋を開けちゃだめだよ。",
+        "kana": "かうまえにふくろをあけちゃだめだよ。",
+        "it": "Non aprire la busta prima di comprarla.",
+        "en": "Don't open the bag before buying it.",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "開ける",
+          "segments": [
+            {
+              "text": "開ける",
+              "prepared": "開ける.",
+              "tokens": [
+                262,
+                733,
+                953,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "aprire",
+          "segments": [
+            {
+              "text": "aprire",
+              "prepared": "Aprire.",
+              "tokens": [
+                384,
+                1090,
+                269,
+                263
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa aprire.",
+          "segments": [
+            {
+              "text": "In italiano significa aprire.",
+              "prepared": "In italiano significa aprire.",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                260,
+                2754,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "買う前に袋を開けちゃだめだよ。",
+          "segments": [
+            {
+              "text": "買う前に袋を開けちゃだめだよ。",
+              "prepared": "買う前に袋を開けちゃだめだよ.",
+              "tokens": [
+                262,
+                877,
+                325,
+                861,
+                2183,
+                264,
+                733,
+                376,
+                1056,
+                314,
+                363,
+                314,
+                347,
+                261
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "Non aprire la busta prima di comprarla.",
+          "segments": [
+            {
+              "text": "Non aprire la busta prima di comprarla.",
+              "prepared": "Non aprire la busta prima di comprarla.",
+              "tokens": [
+                503,
+                260,
+                2754,
+                272,
+                839,
+                459,
+                389,
+                262,
+                933,
+                2896,
+                263
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "645885832289",
+      "jp": "上げる",
+      "kana": "あげる",
+      "pos": "verb",
+      "meaning": "alzare; sollevare; aumentare (dare: uso distinto, spesso scritto あげる)",
+      "meaningEn": "to raise; to lift; to increase (also to give, often written あげる)",
+      "forms": [
+        {
+          "label": "ます形",
+          "jp": "上げます"
+        },
+        {
+          "label": "て形",
+          "jp": "上げて"
+        },
+        {
+          "label": "ない形",
+          "jp": "上げない"
+        },
+        {
+          "label": "た形",
+          "jp": "上げた"
+        }
+      ],
+      "example": {
+        "id": 101,
+        "jp": "上の棚の牛乳、取るなら手を上げて届く？",
+        "kana": "うえのたなのぎゅうにゅう、とるならてをあげてとどく？",
+        "it": "Riesci a prendere il latte sul ripiano alto alzando la mano?",
+        "en": "Can you reach the milk on the upper shelf if you raise your hand?",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "上げる",
+          "segments": [
+            {
+              "text": "上げる",
+              "prepared": "上げる.",
+              "tokens": [
+                262,
+                687,
+                274,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "alzare; sollevare; aumentare (dare: uso distinto, spesso scritto あげる)",
+          "segments": [
+            {
+              "text": "alzare; sollevare; aumentare (dare: uso distinto, spesso scritto あげる)",
+              "prepared": "Alzare; sollevare; aumentare (dare: uso distinto, spesso scritto あげる)",
+              "tokens": [
+                1025,
+                1238,
+                269,
+                63,
+                260,
+                3726,
+                311,
+                63,
+                260,
+                1382,
+                311,
+                260,
+                44,
+                526,
+                269,
+                62,
+                260,
+                1484,
+                260,
+                3913,
+                276,
+                261,
+                260,
+                748,
+                786,
+                276,
+                260,
+                231,
+                133,
+                134,
+                231,
+                133,
+                150,
+                231,
+                134,
+                143,
+                45
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa alzare; sollevare; aumentare (dare: uso distinto, spesso scritto あげる).",
+          "segments": [
+            {
+              "text": "In italiano significa alzare; sollevare; aumentare (dare: uso distinto, spesso scritto あげる).",
+              "prepared": "In italiano significa alzare; sollevare; aumentare (dare: uso distinto, spesso scritto あげる).",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                2541,
+                269,
+                63,
+                260,
+                3726,
+                311,
+                63,
+                260,
+                1382,
+                311,
+                260,
+                44,
+                526,
+                269,
+                62,
+                260,
+                1484,
+                260,
+                3913,
+                276,
+                261,
+                260,
+                748,
+                786,
+                276,
+                260,
+                231,
+                133,
+                134,
+                231,
+                133,
+                150,
+                231,
+                134,
+                143,
+                45,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "上の棚の牛乳、取るなら手を上げて届く？",
+          "segments": [
+            {
+              "text": "上の棚の牛乳、取るなら手を上げて届く？",
+              "prepared": "上の棚の牛乳,取るなら手を上げて届く?",
+              "tokens": [
+                262,
+                327,
+                263,
+                2595,
+                263,
+                2025,
+                1919,
+                260,
+                530,
+                274,
+                799,
+                334,
+                264,
+                687,
+                288,
+                1631,
+                286,
+                360
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "Riesci a prendere il latte sul ripiano alto alzando la mano?",
+          "segments": [
+            {
+              "text": "Riesci a prendere il latte sul ripiano alto alzando la mano?",
+              "prepared": "Riesci a prendere il latte sul ripiano alto alzando la mano?",
+              "tokens": [
+                1014,
+                293,
+                906,
+                266,
+                260,
+                603,
+                269,
+                273,
+                272,
+                663,
+                457,
+                302,
+                2529,
+                278,
+                2085,
+                2541,
+                332,
+                272,
+                1089,
+                316
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "912326629926",
+      "jp": "朝",
+      "kana": "あさ",
+      "pos": "noun",
+      "meaning": "mattina",
+      "meaningEn": "morning",
+      "forms": [
+        {
+          "label": "nome di tempo",
+          "jp": "朝"
+        },
+        {
+          "label": "modificatore nominale",
+          "jp": "朝の"
+        },
+        {
+          "label": "espressione temporale",
+          "jp": "朝に"
+        },
+        {
+          "label": "punto di partenza",
+          "jp": "朝から"
+        }
+      ],
+      "example": {
+        "id": 101,
+        "jp": "朝のうちに買えば、パンがまだ温かいよ。",
+        "kana": "あさのうちにかえば、パンがまだあたたかいよ。",
+        "it": "Se lo compriamo di mattina, il pane è ancora caldo.",
+        "en": "If we buy it in the morning, the bread is still warm.",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "朝",
+          "segments": [
+            {
+              "text": "朝",
+              "prepared": "朝.",
+              "tokens": [
+                262,
+                814,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "mattina",
+          "segments": [
+            {
+              "text": "mattina",
+              "prepared": "Mattina.",
+              "tokens": [
+                396,
+                1478,
+                263
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa mattina.",
+          "segments": [
+            {
+              "text": "In italiano significa mattina.",
+              "prepared": "In italiano significa mattina.",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                284,
+                1478,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "朝のうちに買えば、パンがまだ温かいよ。",
+          "segments": [
+            {
+              "text": "朝のうちに買えば、パンがまだ温かいよ。",
+              "prepared": "朝のうちに買えば,パンがまだ温かいよ.",
+              "tokens": [
+                262,
+                814,
+                263,
+                1106,
+                265,
+                877,
+                305,
+                420,
+                260,
+                539,
+                302,
+                266,
+                738,
+                1289,
+                272,
+                271,
+                347,
+                261
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "Se lo compriamo di mattina, il pane è ancora caldo.",
+          "segments": [
+            {
+              "text": "Se lo compriamo di mattina, il pane è ancora caldo.",
+              "prepared": "Se lo compriamo di mattina, il pane è ancora caldo.",
+              "tokens": [
+                467,
+                317,
+                933,
+                335,
+                262,
+                284,
+                1478,
+                261,
+                273,
+                516,
+                312,
+                271,
+                260,
+                450,
+                3457,
+                263
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "655996449454",
+      "jp": "朝ごはん",
+      "kana": "あさごはん",
+      "pos": "noun",
+      "meaning": "colazione",
+      "meaningEn": "breakfast",
+      "forms": [
+        {
+          "label": "nome invariabile",
+          "jp": "朝ごはん"
+        },
+        {
+          "label": "collocazione verbale",
+          "jp": "朝ごはんを食べる"
+        },
+        {
+          "label": "modificatore nominale",
+          "jp": "朝ごはんの"
+        }
+      ],
+      "example": {
+        "id": 101,
+        "jp": "明日の朝ごはんのパンも、今買っておこう。",
+        "kana": "あしたのあさごはんのパンも、いまかっておこう。",
+        "it": "Compriamo ora anche il pane per la colazione di domani.",
+        "en": "Let's buy tomorrow's breakfast bread now too.",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "朝ごはん",
+          "segments": [
+            {
+              "text": "朝ごはん",
+              "prepared": "朝ごはん.",
+              "tokens": [
+                262,
+                814,
+                428,
+                267,
+                316,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "colazione",
+          "segments": [
+            {
+              "text": "colazione",
+              "prepared": "Colazione.",
+              "tokens": [
+                708,
+                354,
+                298,
+                263
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa colazione.",
+          "segments": [
+            {
+              "text": "In italiano significa colazione.",
+              "prepared": "In italiano significa colazione.",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                612,
+                403,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "明日の朝ごはんのパンも、今買っておこう。",
+          "segments": [
+            {
+              "text": "明日の朝ごはんのパンも、今買っておこう。",
+              "prepared": "明日の朝ごはんのパンも,今買っておこう.",
+              "tokens": [
+                262,
+                493,
+                331,
+                263,
+                814,
+                428,
+                267,
+                316,
+                263,
+                539,
+                302,
+                270,
+                260,
+                380,
+                877,
+                279,
+                290,
+                417,
+                261
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "Compriamo ora anche il pane per la colazione di domani.",
+          "segments": [
+            {
+              "text": "Compriamo ora anche il pane per la colazione di domani.",
+              "prepared": "Compriamo ora anche il pane per la colazione di domani.",
+              "tokens": [
+                2604,
+                1090,
+                405,
+                825,
+                295,
+                273,
+                516,
+                312,
+                274,
+                272,
+                612,
+                403,
+                262,
+                260,
+                1834,
+                263
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "771819314258",
+      "jp": "あさって",
+      "kana": "あさって",
+      "pos": "noun",
+      "meaning": "dopodomani",
+      "meaningEn": "day after tomorrow",
+      "forms": [
+        {
+          "label": "基本形",
+          "jp": "あさって"
+        },
+        {
+          "label": "に",
+          "jp": "あさってに"
+        }
+      ],
+      "example": {
+        "id": 101,
+        "jp": "あさってのお弁当にも使うから、卵を多めに買おう。",
+        "kana": "あさってのおべんとうにもつかうから、たまごをおおめにかおう。",
+        "it": "Compriamo più uova: serviranno anche per il pranzo di dopodomani.",
+        "en": "Let's buy extra eggs; we'll use them for the packed lunch the day after tomorrow too.",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "あさって",
+          "segments": [
+            {
+              "text": "あさって",
+              "prepared": "あさって.",
+              "tokens": [
+                760,
+                310,
+                279,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "dopodomani",
+          "segments": [
+            {
+              "text": "dopodomani",
+              "prepared": "Dopodomani.",
+              "tokens": [
+                1758,
+                1834,
+                263
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa dopodomani.",
+          "segments": [
+            {
+              "text": "In italiano significa dopodomani.",
+              "prepared": "In italiano significa dopodomani.",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                492,
+                1834,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "あさってのお弁当にも使うから、卵を多めに買おう。",
+          "segments": [
+            {
+              "text": "あさってのお弁当にも使うから、卵を多めに買おう。",
+              "prepared": "あさってのお弁当にも使うから,卵を多めに買おう.",
+              "tokens": [
+                760,
+                310,
+                279,
+                263,
+                290,
+                1703,
+                594,
+                543,
+                1363,
+                278,
+                260,
+                2123,
+                264,
+                565,
+                363,
+                265,
+                877,
+                290,
+                325,
+                261
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "Compriamo più uova: serviranno anche per il pranzo di dopodomani.",
+          "segments": [
+            {
+              "text": "Compriamo più uova: serviranno anche per il pranzo di dopodomani.",
+              "prepared": "Compriamo più uova: serviranno anche per il pranzo di dopodomani.",
+              "tokens": [
+                2604,
+                1090,
+                405,
+                301,
+                260,
+                414,
+                285,
+                322,
+                62,
+                1669,
+                787,
+                295,
+                274,
+                273,
+                260,
+                3846,
+                262,
+                492,
+                1834,
+                263
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "171249063938",
+      "jp": "足",
+      "kana": "あし",
+      "pos": "noun",
+      "meaning": "piede; gamba",
+      "meaningEn": "foot; leg",
+      "forms": [
+        {
+          "label": "noun",
+          "jp": "足"
+        },
+        {
+          "label": "が構文",
+          "jp": "足が痛い"
+        }
+      ],
+      "example": {
+        "id": 101,
+        "jp": "足が疲れた？　買い物はあと一つだけだよ。",
+        "kana": "あしがつかれた？　かいものはあとひとつだけだよ。",
+        "it": "Hai le gambe stanche? Manca solo un acquisto.",
+        "en": "Are your legs tired? We only need one more thing.",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "足",
+          "segments": [
+            {
+              "text": "足",
+              "prepared": "足.",
+              "tokens": [
+                262,
+                640,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "piede; gamba",
+          "segments": [
+            {
+              "text": "piede; gamba",
+              "prepared": "Piede; gamba.",
+              "tokens": [
+                1207,
+                293,
+                379,
+                63,
+                260,
+                418,
+                2041,
+                263
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa piede; gamba.",
+          "segments": [
+            {
+              "text": "In italiano significa piede; gamba.",
+              "prepared": "In italiano significa piede; gamba.",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                260,
+                1343,
+                379,
+                63,
+                260,
+                418,
+                2041,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "足が疲れた？　買い物はあと一つだけだよ。",
+          "segments": [
+            {
+              "text": "足が疲れた？",
+              "prepared": "足が疲れた?",
+              "tokens": [
+                262,
+                640,
+                266,
+                2159,
+                576,
+                360
+              ]
+            },
+            {
+              "text": "買い物はあと一つだけだよ。",
+              "prepared": "買い物はあと一つだけだよ.",
+              "tokens": [
+                262,
+                877,
+                271,
+                354,
+                267,
+                1047,
+                717,
+                461,
+                314,
+                347,
+                261
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "Hai le gambe stanche? Manca solo un acquisto.",
+          "segments": [
+            {
+              "text": "Hai le gambe stanche?",
+              "prepared": "Hai le gambe stanche?",
+              "tokens": [
+                1136,
+                281,
+                288,
+                3665,
+                260,
+                861,
+                998,
+                316
+              ]
+            },
+            {
+              "text": "Manca solo un acquisto.",
+              "prepared": "Manca solo un acquisto.",
+              "tokens": [
+                396,
+                1895,
+                423,
+                270,
+                260,
+                1446,
+                276,
+                263
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "74604622966",
+      "jp": "明日",
+      "kana": "あした",
+      "pos": "noun",
+      "meaning": "domani",
+      "meaningEn": "tomorrow",
+      "forms": [
+        {
+          "label": "名詞",
+          "jp": "明日"
+        },
+        {
+          "label": "助詞付き",
+          "jp": "明日まで"
+        }
+      ],
+      "example": {
+        "id": 101,
+        "jp": "明日の牛乳がないから、一本買って。",
+        "kana": "あしたのぎゅうにゅうがないから、いっぽんかって。",
+        "it": "Non c'è latte per domani; comprane una bottiglia.",
+        "en": "There's no milk for tomorrow; buy a bottle.",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "明日",
+          "segments": [
+            {
+              "text": "明日",
+              "prepared": "明日.",
+              "tokens": [
+                262,
+                493,
+                331,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "domani",
+          "segments": [
+            {
+              "text": "domani",
+              "prepared": "Domani.",
+              "tokens": [
+                1340,
+                415,
+                314,
+                263
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa domani.",
+          "segments": [
+            {
+              "text": "In italiano significa domani.",
+              "prepared": "In italiano significa domani.",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                260,
+                1834,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "明日の牛乳がないから、一本買って。",
+          "segments": [
+            {
+              "text": "明日の牛乳がないから、一本買って。",
+              "prepared": "明日の牛乳がないから,一本買って.",
+              "tokens": [
+                262,
+                493,
+                331,
+                263,
+                2025,
+                1919,
+                266,
+                289,
+                278,
+                260,
+                309,
+                367,
+                877,
+                279,
+                261
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "Non c'è latte per domani; comprane una bottiglia.",
+          "segments": [
+            {
+              "text": "Non c'è latte per domani; comprane una bottiglia.",
+              "prepared": "Non c'è latte per domani; comprane una bottiglia.",
+              "tokens": [
+                503,
+                310,
+                267,
+                339,
+                272,
+                663,
+                274,
+                260,
+                1834,
+                63,
+                933,
+                279,
+                312,
+                280,
+                869,
+                509,
+                798,
+                263
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "819885898480",
+      "jp": "あそこ",
+      "kana": "あそこ",
+      "pos": "pronoun",
+      "meaning": "laggiù; quel posto (anche eufemismo per le parti intime)",
+      "meaningEn": "over there",
+      "forms": [
+        {
+          "label": "場所を示す指示語",
+          "jp": "あそこ"
+        },
+        {
+          "label": "存在場所",
+          "jp": "あそこに"
+        }
+      ],
+      "example": {
+        "id": 101,
+        "jp": "あそこのレジなら、並んでいる人が少ないよ。",
+        "kana": "あそこのレジなら、ならんでいるひとがすくないよ。",
+        "it": "A quella cassa laggiù c'è meno coda.",
+        "en": "There are fewer people queuing at that till over there.",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "あそこ",
+          "segments": [
+            {
+              "text": "あそこ",
+              "prepared": "あそこ.",
+              "tokens": [
+                760,
+                571,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "laggiù; quel posto (anche eufemismo per le parti intime)",
+          "segments": [
+            {
+              "text": "laggiù; quel posto (anche eufemismo per le parti intime)",
+              "prepared": "Laggiù; quel posto (anche eufemismo per le parti intime)",
+              "tokens": [
+                400,
+                934,
+                2416,
+                63,
+                471,
+                1070,
+                260,
+                44,
+                998,
+                265,
+                414,
+                1114,
+                393,
+                1102,
+                274,
+                288,
+                441,
+                268,
+                296,
+                495,
+                45
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa laggiù; quel posto (anche eufemismo per le parti intime).",
+          "segments": [
+            {
+              "text": "In italiano significa laggiù; quel posto (anche eufemismo per le parti intime).",
+              "prepared": "In italiano significa laggiù; quel posto (anche eufemismo per le parti intime).",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                272,
+                934,
+                2416,
+                63,
+                471,
+                1070,
+                260,
+                44,
+                998,
+                265,
+                414,
+                1114,
+                393,
+                1102,
+                274,
+                288,
+                441,
+                268,
+                296,
+                495,
+                45,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "あそこのレジなら、並んでいる人が少ないよ。",
+          "segments": [
+            {
+              "text": "あそこのレジなら、並んでいる人が少ないよ。",
+              "prepared": "あそこのレジなら,並んでいる人が少ないよ.",
+              "tokens": [
+                760,
+                571,
+                263,
+                415,
+                401,
+                799,
+                260,
+                1370,
+                365,
+                436,
+                821,
+                889,
+                289,
+                347,
+                261
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "A quella cassa laggiù c'è meno coda.",
+          "segments": [
+            {
+              "text": "A quella cassa laggiù c'è meno coda.",
+              "prepared": "A quella cassa laggiù c'è meno coda.",
+              "tokens": [
+                384,
+                260,
+                427,
+                543,
+                688,
+                272,
+                934,
+                2416,
+                310,
+                267,
+                339,
+                585,
+                329,
+                526,
+                263
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "194705298176",
+      "jp": "遊ぶ",
+      "kana": "あそぶ",
+      "pos": "verb",
+      "meaning": "giocare; divertirsi; andare a trovare qualcuno",
+      "meaningEn": "to play; to make a visit",
+      "forms": [
+        {
+          "label": "ます形",
+          "jp": "遊びます"
+        },
+        {
+          "label": "て形",
+          "jp": "遊んで"
+        },
+        {
+          "label": "ない形",
+          "jp": "遊ばない"
+        },
+        {
+          "label": "た形",
+          "jp": "遊んだ"
+        }
+      ],
+      "example": {
+        "id": 101,
+        "jp": "おもちゃは買わずに、家の積み木で遊ぼう。",
+        "kana": "おもちゃはかわずに、いえのつみきであそぼう。",
+        "it": "Non compriamo giocattoli, giochiamo con le costruzioni di casa.",
+        "en": "Let's skip buying toys and play with our blocks at home.",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "遊ぶ",
+          "segments": [
+            {
+              "text": "遊ぶ",
+              "prepared": "遊ぶ.",
+              "tokens": [
+                262,
+                1532,
+                541,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "giocare; divertirsi; andare a trovare qualcuno",
+          "segments": [
+            {
+              "text": "giocare; divertirsi; andare a trovare qualcuno",
+              "prepared": "Giocare; divertirsi; andare a trovare qualcuno.",
+              "tokens": [
+                3040,
+                422,
+                269,
+                63,
+                262,
+                1919,
+                468,
+                63,
+                260,
+                620,
+                266,
+                523,
+                269,
+                333,
+                831,
+                263
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa giocare; divertirsi; andare a trovare qualcuno.",
+          "segments": [
+            {
+              "text": "In italiano significa giocare; divertirsi; andare a trovare qualcuno.",
+              "prepared": "In italiano significa giocare; divertirsi; andare a trovare qualcuno.",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                667,
+                269,
+                63,
+                262,
+                1919,
+                468,
+                63,
+                260,
+                620,
+                266,
+                523,
+                269,
+                333,
+                831,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "おもちゃは買わずに、家の積み木で遊ぼう。",
+          "segments": [
+            {
+              "text": "おもちゃは買わずに、家の積み木で遊ぼう。",
+              "prepared": "おもちゃは買わずに,家の積み木で遊ぼう.",
+              "tokens": [
+                262,
+                290,
+                270,
+                1056,
+                267,
+                877,
+                322,
+                447,
+                265,
+                260,
+                402,
+                263,
+                1167,
+                307,
+                598,
+                269,
+                1532,
+                1467,
+                325,
+                261
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "Non compriamo giocattoli, giochiamo con le costruzioni di casa.",
+          "segments": [
+            {
+              "text": "Non compriamo giocattoli, giochiamo con le costruzioni di casa.",
+              "prepared": "Non compriamo giocattoli, giochiamo con le costruzioni di casa.",
+              "tokens": [
+                503,
+                933,
+                335,
+                667,
+                477,
+                342,
+                261,
+                260,
+                1981,
+                405,
+                277,
+                288,
+                260,
+                1198,
+                386,
+                262,
+                629,
+                263
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1058269172362",
+      "jp": "暖かい",
+      "kana": "あたたかい",
+      "pos": "i",
+      "meaning": "caldo; tiepido (clima, ambiente, abiti); accogliente",
+      "meaningEn": "warm",
+      "forms": [
+        {
+          "label": "過去形",
+          "jp": "暖かかった"
+        },
+        {
+          "label": "ない形",
+          "jp": "暖かくない"
+        },
+        {
+          "label": "て形",
+          "jp": "暖かくて"
+        }
+      ],
+      "example": {
+        "id": 101,
+        "jp": "今日は暖かいから、アイスを買って帰ろう。",
+        "kana": "きょうはあたたかいから、アイスをかってかえろう。",
+        "it": "Oggi fa un bel tepore: compriamo un gelato tornando a casa.",
+        "en": "It's warm today, so let's buy ice cream on the way home.",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "暖かい",
+          "segments": [
+            {
+              "text": "暖かい",
+              "prepared": "暖かい.",
+              "tokens": [
+                262,
+                2320,
+                272,
+                271,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "caldo; tiepido (clima, ambiente, abiti); accogliente",
+          "segments": [
+            {
+              "text": "caldo; tiepido (clima, ambiente, abiti); accogliente",
+              "prepared": "Caldo; tiepido (clima, ambiente, abiti); accogliente.",
+              "tokens": [
+                754,
+                347,
+                507,
+                63,
+                409,
+                293,
+                737,
+                507,
+                260,
+                44,
+                408,
+                342,
+                415,
+                261,
+                260,
+                1858,
+                287,
+                261,
+                260,
+                2044,
+                296,
+                45,
+                63,
+                1188,
+                1157,
+                360,
+                263
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa caldo; tiepido (clima, ambiente, abiti); accogliente.",
+          "segments": [
+            {
+              "text": "In italiano significa caldo; tiepido (clima, ambiente, abiti); accogliente.",
+              "prepared": "In italiano significa caldo; tiepido (clima, ambiente, abiti); accogliente.",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                3457,
+                63,
+                409,
+                293,
+                737,
+                507,
+                260,
+                44,
+                408,
+                342,
+                415,
+                261,
+                260,
+                1858,
+                287,
+                261,
+                260,
+                2044,
+                296,
+                45,
+                63,
+                1188,
+                1157,
+                360,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "今日は暖かいから、アイスを買って帰ろう。",
+          "segments": [
+            {
+              "text": "今日は暖かいから、アイスを買って帰ろう。",
+              "prepared": "今日は暖かいから,アイスを買って帰ろう.",
+              "tokens": [
+                262,
+                1390,
+                2320,
+                272,
+                271,
+                278,
+                260,
+                317,
+                332,
+                285,
+                264,
+                877,
+                279,
+                908,
+                980,
+                261
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "Oggi fa un bel tepore: compriamo un gelato tornando a casa.",
+          "segments": [
+            {
+              "text": "Oggi fa un bel tepore: compriamo un gelato tornando a casa.",
+              "prepared": "Oggi fa un bel tepore: compriamo un gelato tornando a casa.",
+              "tokens": [
+                1770,
+                330,
+                270,
+                1708,
+                260,
+                287,
+                727,
+                269,
+                62,
+                933,
+                335,
+                270,
+                260,
+                2961,
+                344,
+                938,
+                332,
+                266,
+                629,
+                263
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "782434422348",
+      "jp": "頭",
+      "kana": "あたま",
+      "pos": "noun",
+      "meaning": "testa; mente",
+      "meaningEn": "head",
+      "forms": [
+        {
+          "label": "名詞",
+          "jp": "頭"
+        },
+        {
+          "label": "慣用表現",
+          "jp": "頭を使う"
+        },
+        {
+          "label": "慣用表現",
+          "jp": "頭に入る"
+        }
+      ],
+      "example": {
+        "id": 101,
+        "jp": "棚に頭をぶつけないように、かがんで取ってね。",
+        "kana": "たなにあたまをぶつけないように、かがんでとってね。",
+        "it": "Abbassati per prenderlo, così non sbatti la testa contro lo scaffale.",
+        "en": "Duck down to get it so you don't hit your head on the shelf.",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "頭",
+          "segments": [
+            {
+              "text": "頭",
+              "prepared": "頭.",
+              "tokens": [
+                262,
+                676,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "testa; mente",
+          "segments": [
+            {
+              "text": "testa; mente",
+              "prepared": "Testa; mente.",
+              "tokens": [
+                1232,
+                459,
+                63,
+                260,
+                297,
+                263
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa testa; mente.",
+          "segments": [
+            {
+              "text": "In italiano significa testa; mente.",
+              "prepared": "In italiano significa testa; mente.",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                1087,
+                63,
+                260,
+                297,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "棚に頭をぶつけないように、かがんで取ってね。",
+          "segments": [
+            {
+              "text": "棚に頭をぶつけないように、かがんで取ってね。",
+              "prepared": "棚に頭をぶつけないように,かがんで取ってね.",
+              "tokens": [
+                262,
+                2595,
+                265,
+                676,
+                264,
+                541,
+                830,
+                289,
+                482,
+                260,
+                272,
+                266,
+                365,
+                530,
+                279,
+                275,
+                261
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "Abbassati per prenderlo, così non sbatti la testa contro lo scaffale.",
+          "segments": [
+            {
+              "text": "Abbassati per prenderlo, così non sbatti la testa contro lo scaffale.",
+              "prepared": "Abbassati per prenderlo, così non sbatti la testa contro lo scaffale.",
+              "tokens": [
+                384,
+                2016,
+                279,
+                688,
+                296,
+                274,
+                260,
+                603,
+                643,
+                261,
+                383,
+                275,
+                328,
+                2700,
+                272,
+                1087,
+                260,
+                650,
+                317,
+                1662,
+                2526,
+                362,
+                263
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "596505410385",
+      "jp": "新しい",
+      "kana": "あたらしい",
+      "pos": "i",
+      "meaning": "nuovo; recente",
+      "meaningEn": "new",
+      "forms": [
+        {
+          "label": "過去形",
+          "jp": "新しかった"
+        },
+        {
+          "label": "ない形",
+          "jp": "新しくない"
+        },
+        {
+          "label": "て形",
+          "jp": "新しくて"
+        }
+      ],
+      "example": {
+        "id": 101,
+        "jp": "新しいお菓子より、いつものがいいな。",
+        "kana": "あたらしいおかしより、いつものがいいな。",
+        "it": "Preferisco i soliti dolci a quelli nuovi.",
+        "en": "I'd rather have our usual sweets than new ones.",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "新しい",
+          "segments": [
+            {
+              "text": "新しい",
+              "prepared": "新しい.",
+              "tokens": [
+                262,
+                1382,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "nuovo; recente",
+          "segments": [
+            {
+              "text": "nuovo; recente",
+              "prepared": "Nuovo; recente.",
+              "tokens": [
+                3151,
+                285,
+                413,
+                63,
+                1820,
+                287,
+                263
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa nuovo; recente.",
+          "segments": [
+            {
+              "text": "In italiano significa nuovo; recente.",
+              "prepared": "In italiano significa nuovo; recente.",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                725,
+                63,
+                1820,
+                287,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "新しいお菓子より、いつものがいいな。",
+          "segments": [
+            {
+              "text": "新しいお菓子より、いつものがいいな。",
+              "prepared": "新しいお菓子より,いつものがいいな.",
+              "tokens": [
+                262,
+                1382,
+                290,
+                2683,
+                353,
+                651,
+                260,
+                1470,
+                263,
+                266,
+                394,
+                273,
+                261
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "Preferisco i soliti dolci a quelli nuovi.",
+          "segments": [
+            {
+              "text": "Preferisco i soliti dolci a quelli nuovi.",
+              "prepared": "Preferisco i soliti dolci a quelli nuovi.",
+              "tokens": [
+                633,
+                269,
+                1058,
+                2381,
+                294,
+                1298,
+                296,
+                462,
+                347,
+                424,
+                266,
+                260,
+                724,
+                1750,
+                263
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "227213300256",
+      "jp": "あちら",
+      "kana": "あちら",
+      "pos": "pronoun",
+      "meaning": "là; da quella parte; quella persona o parte (cortese)",
+      "meaningEn": "there",
+      "forms": [
+        {
+          "label": "基本形",
+          "jp": "あちら"
+        },
+        {
+          "label": "方向を示す形",
+          "jp": "あちらへ"
+        }
+      ],
+      "example": {
+        "id": 101,
+        "jp": "「あちらのレジへ」って書いてあるよ。向こうに並ぼう。",
+        "kana": "「あちらのレジへ」ってかいてあるよ。むこうにならぼう。",
+        "it": "C'è scritto «Alla cassa laggiù». Mettiamoci in fila lì.",
+        "en": "It says 'To the checkout over there.' Let's line up there.",
+        "register": "informal"
+      },
+      "tts": {
+        "jaWord": {
+          "text": "あちら",
+          "segments": [
+            {
+              "text": "あちら",
+              "prepared": "あちら.",
+              "tokens": [
+                760,
+                458,
+                295,
+                261
+              ]
+            }
+          ]
+        },
+        "itMeaning": {
+          "text": "là; da quella parte; quella persona o parte (cortese)",
+          "segments": [
+            {
+              "text": "là; da quella parte; quella persona o parte (cortese)",
+              "prepared": "Là; da quella parte; quella persona o parte (cortese)",
+              "tokens": [
+                546,
+                2957,
+                63,
+                290,
+                260,
+                427,
+                391,
+                63,
+                260,
+                427,
+                274,
+                705,
+                331,
+                391,
+                260,
+                44,
+                2586,
+                287,
+                433,
+                45
+              ]
+            }
+          ]
+        },
+        "itMeaningContext": {
+          "text": "In italiano significa là; da quella parte; quella persona o parte (cortese).",
+          "segments": [
+            {
+              "text": "In italiano significa là; da quella parte; quella persona o parte (cortese).",
+              "prepared": "In italiano significa là; da quella parte; quella persona o parte (cortese).",
+              "tokens": [
+                445,
+                260,
+                664,
+                278,
+                1098,
+                647,
+                1296,
+                63,
+                290,
+                260,
+                427,
+                391,
+                63,
+                260,
+                427,
+                274,
+                705,
+                331,
+                391,
+                260,
+                44,
+                2586,
+                287,
+                433,
+                45,
+                263
+              ]
+            }
+          ]
+        },
+        "jaExample": {
+          "text": "「あちらのレジへ」って書いてあるよ。向こうに並ぼう。",
+          "segments": [
+            {
+              "text": "「あちらのレジへ」って書いてあるよ。",
+              "prepared": "あちらのレジへって書いてあるよ.",
+              "tokens": [
+                760,
+                458,
+                295,
+                263,
+                415,
+                401,
+                435,
+                279,
+                1177,
+                372,
+                347,
+                261
+              ]
+            },
+            {
+              "text": "向こうに並ぼう。",
+              "prepared": "向こうに並ぼう.",
+              "tokens": [
+                262,
+                658,
+                417,
+                265,
+                1370,
+                1467,
+                325,
+                261
+              ]
+            }
+          ]
+        },
+        "itExample": {
+          "text": "C'è scritto «Alla cassa laggiù». Mettiamoci in fila lì.",
+          "segments": [
+            {
+              "text": "C'è scritto «Alla cassa laggiù».",
+              "prepared": "C'è scritto «Alla cassa laggiù».",
+              "tokens": [
+                539,
+                267,
+                339,
+                786,
+                276,
+                260,
+                198,
+                175,
+                621,
+                589,
+                543,
+                688,
+                272,
+                934,
+                2416,
+                198,
+                191,
+                263
+              ]
+            },
+            {
+              "text": "Mettiamoci in fila lì.",
+              "prepared": "Mettiamoci in fila lì.",
+              "tokens": [
+                936,
+                1034,
+                2609,
+                268,
+                260,
+                3014,
+                545,
+                263
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "languages": {
+    "ja": {
+      "directory": "assets/ja/",
+      "modelFiles": {
+        "text_conditioner": "text_conditioner_int8.onnx",
+        "flow_lm_main": "flow_lm_main_int8.onnx",
+        "flow_lm_flow": "flow_lm_flow_int8.onnx",
+        "mimi_decoder": "mimi_decoder_int8.onnx"
+      },
+      "voiceFrames": 187,
+      "voiceDim": 1024,
+      "sampleRate": 24000,
+      "voiceSource": "male_01.wav",
+      "voiceSharedWithJapanese": false,
+      "stateVersion": 1
+    },
+    "it": {
+      "directory": "assets/it/",
+      "modelFiles": {
+        "text_conditioner": "text_conditioner_int8.onnx",
+        "flow_lm_main": "flow_lm_main_int8.onnx",
+        "flow_lm_flow": "flow_lm_flow_int8.onnx",
+        "mimi_decoder": "mimi_decoder_int8.onnx"
+      },
+      "voiceFrames": 187,
+      "voiceDim": 1024,
+      "sampleRate": 24000,
+      "voiceSource": "male_01.wav",
+      "voiceSharedWithJapanese": true,
+      "stateVersion": 1
+    }
+  },
+  "configuration": {
+    "temperature": 0.3,
+    "lsdSteps": 4,
+    "maxFrames": 200,
+    "framesAfterEos": 0,
+    "pauseMs": 250,
+    "startSilenceMs": 200
+  }
+}
